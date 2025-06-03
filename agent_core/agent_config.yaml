@@ -1,0 +1,5 @@
+api_keys:
+  openai: "your-openai-key"
+tool_paths:
+  model_selector: "tools/model_selector.py"
+  architecture_designer: "tools/architecture_designer.py"

@@ -1,0 +1,6 @@
+{
+  "nodes": [
+    { "id": "1", "type": "input", "name": "User Query" },
+    { "id": "2", "type": "tool", "name": "Architecture Tool" }
+  ]
+}

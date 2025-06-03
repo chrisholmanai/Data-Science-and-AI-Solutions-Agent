@@ -1,0 +1,7 @@
+{
+  "fields": [
+    { "name": "name", "type": "string" },
+    { "name": "age", "type": "integer" },
+    { "name": "salary", "type": "number" }
+  ]
+}
