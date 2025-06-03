@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-C62828?style=for-the-badge&logo=yaml&logoColor=white" />
-</p>
+</p> 
 
 <p align="center">
   An intelligent multi-skill AI agent designed to assist in building robust, scalable data science and AI solutions—from data profiling and model selection to infrastructure design and visualization.
