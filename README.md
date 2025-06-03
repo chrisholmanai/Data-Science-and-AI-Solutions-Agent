@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>🤖 Data-Science-and-AI-Solutions-Agent</h1>
-</p>
+<h1 align="center">🤖 Data-Science-and-AI-Solutions-Agent</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
